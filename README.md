@@ -1,0 +1,2 @@
+# Lifestyle-Based-Biological-Age-Analysis-and-Health-Risk-Assessment-
+This project focuses on analyzing how daily lifestyle factors influence an individual’s biological aging and overall health risk. Using a data-driven approach, variables such as sleep duration, stress levels, physical activity, diet, BMI, and screen time are examined to estimate biological age and compare it with chronological age.
